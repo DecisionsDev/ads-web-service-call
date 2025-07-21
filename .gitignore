@@ -27,8 +27,11 @@
 hs_err_pid*
 replay_pid*
 
-#Vscode
+# Vscode
 .vscode/
 
 # MacOS files
 **/.DS_Store
+
+# Maven
+.m2
