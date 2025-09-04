@@ -1,0 +1,11 @@
+
+package utility;
+class Stopper
+{
+    static void stop(string message);
+}
+
+class RemoteCallSupport
+{
+    static void initRemoteCallURL();
+}

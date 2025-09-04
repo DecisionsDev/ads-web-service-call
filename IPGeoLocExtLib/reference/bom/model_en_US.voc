@@ -1,0 +1,13 @@
+
+# org.ipgeoloc.IPAPIRequest
+org.ipgeoloc.IPAPIRequest#concept.label =
+org.ipgeoloc.IPAPIRequest.ip2Country(java.lang.String)#phrase.navigation = find country from IP address {0}
+org.ipgeoloc.IPAPIRequest.ip2LatLong(java.lang.String)#phrase.navigation = find latitude and longitude from IP address {0}
+
+# utility.RemoteCallSupport
+utility.RemoteCallSupport#concept.label =
+utility.RemoteCallSupport.initRemoteCallURL()#phrase.action = initialize service URL
+
+# utility.Stopper
+utility.Stopper#concept.label =
+utility.Stopper.stop(java.lang.String)#phrase.action = stop({0})
